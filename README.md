@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href=""><img src="https://github.com/TrashRobotics/ScrewPropelledVehicle/blob/main/img/screw_propelled_vehicle.jpg" alt="Шнекороторный снегоболотоход" width="800"></a>
+  <a href="https://youtu.be/GM8qZVZJs2o"><img src="https://github.com/TrashRobotics/ScrewPropelledVehicle/blob/main/img/screw_propelled_vehicle.jpg" alt="Шнекороторный снегоболотоход" width="800"></a>
   <br>
     Шнековая платформа
   <br>
@@ -23,7 +23,7 @@
 * HC-06 блютуз модуль (опционально);
 * KY-022 ИК-приемник и пульт для него;
 * кусок фанеры 305x170x6 мм;
-* [шнек, держатели, кабина и т.д.](ссылка на файлы)
+* [шнек, держатели, кабина и т.д.](https://www.thingiverse.com/thing:5204085)
 
 ### Крепеж
 * Подшипник 623 2RS (180023) 3dx10Dx4H (мм) x2;
