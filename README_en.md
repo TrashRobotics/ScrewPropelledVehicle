@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href=""><img src="https://github.com/TrashRobotics/ScrewPropelledVehicle/blob/main/img/screw_propelled_vehicle.jpg" alt="Screw-propelled vehicle" width="800"></a>
+  <a href="https://youtu.be/GM8qZVZJs2o"><img src="https://github.com/TrashRobotics/ScrewPropelledVehicle/blob/main/img/screw_propelled_vehicle.jpg" alt="Screw-propelled vehicle" width="800"></a>
   <br>
     Screw-propelled platform
   <br>
@@ -23,7 +23,7 @@ Code for testing the screw-propelled platform
 * HC-06 bluetooth module (optional);
 * KY-022 IR receiver and remote control for it;
 * piece of plywood 305x170x6 mm;
-* [screws, holders, cabin, etc.] (link to files)
+* [screws, holders, cabin, etc.] (https://www.thingiverse.com/thing:5204085)
 
 ### Fasteners
 * Bearing 623 2RS (180023) 3dx10Dx4H (mm) x2;
